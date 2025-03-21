@@ -4,6 +4,7 @@ version = "0.1.0"
 description = "Dubai to the Stars - The Ultimate Space Travel Experience"
 authors = ["Your Name <your.email@example.com>"]
 readme = "README.md"
+packages = [{include = "dubai_challenge"}]
 
 [tool.poetry.dependencies]
 python = "^3.10"
